@@ -1,0 +1,2 @@
+newArray = []
+return newArray
